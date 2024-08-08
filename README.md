@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a passionate junior data analyst dedicated to 
 ## 🛠️ Skills and Technologies
 
 ### Programming Languages and Tools
-- **Python** (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, Seaborn, Statsmodels)
-- **SQL** (MySQL, MyWorkbench)
-- **JavaScript** (React.js, Node.js)
+- **Python:** Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, Seaborn, Statsmodels
+- **SQL:** MySQL, MyWorkbench
+- **JavaScript:** React.js, Node.js
 - **NoSQL:** MongoDB
 
 ### Data Visualization and Reporting
