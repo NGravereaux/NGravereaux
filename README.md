@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm an aspiring junior data analyst
 -project3
 
 ## 📫 How to reach me
-- [Email](natalia.gravereaux@gmail.com)
+- [Email](mailto:natalia.gravereaux@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nmikh/)
 - [Kaggle](https://www.kaggle.com/nataliagravereaux)
 
