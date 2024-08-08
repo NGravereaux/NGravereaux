@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm an aspiring junior data analyst
 French, English
 
 ## 🌟 Projects
--project1
--project2
--project3
+- **Project_name_1:**
+- **Project_name_2:**
+- **Project_name_3:**
 
 ## 📫 How to reach me
 - [Email](mailto:natalia.gravereaux@gmail.com)
