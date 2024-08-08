@@ -14,8 +14,7 @@ Welcome to my GitHub profile! I'm an aspiring junior data analyst
 - Analytical thinking, teamwork and collaboration, adaptability, fast-learner
 
 ## 🗣️ Languages spoken
--French
--English
+French, English
 
 ## 🌟 Projects
 -project1
