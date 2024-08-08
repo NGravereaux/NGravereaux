@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm an aspiring junior data analyst
 
 ## 👩‍💻 About Me
 - I have a Master's degree in Finance
-- Currently working in MERSEN company, a global expert in electrical power and advanced materials, as a data analyst
+- Currently working as a data analyst in MERSEN company, a global expert in electrical power and advanced materials
 - I’m learning data science.
 
 ## 🛠️ Skills and Technologies
