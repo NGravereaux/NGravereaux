@@ -1,6 +1,7 @@
 # Hello 👋 I'm Natalia
 
 Welcome to my GitHub profile! I'm a passionate junior data analyst dedicated to transforming complex data into actionable insights and visualizations.
+📍🇫🇷 Based in Paris 
 
 ## 👩‍💻 About Me
 - 🎓 **Education:** Master's degree in Finance.
