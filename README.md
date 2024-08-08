@@ -22,9 +22,10 @@ Welcome to my GitHub profile! I'm an aspiring junior data analyst
 -project2
 -project3
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngravereaux&show_icons=true)
 ## 📫 How to reach me
 - [Email](natalia.gravereaux@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nmikh/)
 - [Kaggle](https://www.kaggle.com/nataliagravereaux)
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngravereaux&show_icons=true)
