@@ -31,9 +31,30 @@ Welcome to my GitHub profile! I'm a passionate data analyst dedicated to transfo
 - **English** (Fluent)
 
 ## 🌟 Projects
-- **Financial Dashboard Analysis:** Developed a comprehensive dashboard using PowerBI to track financial KPIs for MERSEN.
-- **Customer Data Segmentation:** Implemented a machine learning model in Python to classify customer types based on purchase behavior.
-- **Real-time Data Visualization App:** Created an interactive web application using React.js and D3.js for displaying real-time sensor data.
+- **OpenAI API, Python**: Interactive sales dashboard with AI insights.  
+  🔗 [View Repository](https://github.com/NGravereaux/portfolio-interactive-sales-dashboard-with-ai-insights)
+
+- **Machine Learning Classification Prediction, Statistical Analysis, Python**: Bank churn predictions using machine learning techniques.  
+  🔗 [View Repository](https://github.com/NGravereaux/portfolio-bank-churn-prediction)
+
+- **SQL, Python, Tableau**: Analyze and visualize bank loan data with SQL and Tableau.  
+  🔗 [View Repository](https://github.com/NGravereaux/portfolio-bank-loan-sql-tableau-project)
+
+- **SQL, Python**: Query bank data using SQL.  
+  🔗 [View Repository](https://github.com/NGravereaux/portfolio-sql-project-bank)
+
+- **Python, Streamlit**: Interactive web app for bank churn prediction using Streamlit.  
+  🔗 [View Repository](https://github.com/NGravereaux/portfolio-bank-churn-prediction-streamlit-presentation)
+
+- **Python, Statistical Analysis**: Conduct an A/B test analysis for a Vanguard project.  
+  🔗 [View Repository](https://github.com/NGravereaux/portfolio-project-vanguard-AB-test-analysis)
+
+- **Python, Statistical Analysis**: Analyze renewable energy data to extract meaningful insights.  
+  🔗 [View Repository](https://github.com/NGravereaux/portfolio-project-renewable-evergy-analysis)
+
+- **Python, Data Cleaning**: Process and clean data from the Global Shark Attack File.  
+  🔗 [View Repository](https://github.com/NGravereaux/portfolio-data-cleaning-project-global-shark-attack)
+
 
 ## 📫 How to reach me
 - [Email](mailto:natalia.gravereaux@gmail.com)
