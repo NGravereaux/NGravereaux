@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst dedicated to transfo
   🔗 [View Repository](https://github.com/NGravereaux/portfolio-interactive-sales-dashboard-with-ai-insights)
 
 - **Machine Learning Classification Prediction, Statistical Analysis, Python**: Bank churn predictions using machine learning techniques.  
-  🔗 [View Repository](https://github.com/NGravereaux/portfolio-bank-churn-prediction)
+  🔗 [View Repository](https://github.com/NGravereaux/portfolio-bank-churn-prediction-streamlit-presentation)
 
 - **SQL, Python, Tableau**: Analyze and visualize bank loan data with SQL and Tableau.  
   🔗 [View Repository](https://github.com/NGravereaux/portfolio-bank-loan-sql-tableau-project)
