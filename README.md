@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst dedicated to transfo
 ### Data Visualization and Reporting
 - **PowerBI**
 - **Tableau**
+- **Streamlit**
 
 ## 🧠 Soft Skills
 - Analytical thinking
